@@ -14,7 +14,7 @@ CYAN='\033[0;36m' # Reset warna teks ke default
 # Menampilkan informasi
 clear
 echo -e "\033[0m"
-echo -e "${RED}𝗢𝗪𝗡𝗘𝗥${RESET}${BLUE}𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥${RESET}"
+echo -e "${RED}𝗢𝗪𝗡𝗘𝗥${RESET}${BLUE}𝗥𝗔𝗥𝗔𝗔 𝗜𝗠𝗨𝗣𝗣${RESET}"
 echo -e "\033[32mTELEGRAM  : @raraa_imuppp\033[0m"
 echo -e "\033[31mCHANNEL : @kepoluyee\033[0m"
 echo ""
@@ -70,7 +70,7 @@ echo "13. KELUAR DARI INSTALLER"
 echo ""
 echo "𝗥𝗢𝗟𝗕𝗔𝗖𝗞 𝗙𝗜𝗟𝗘𝗦"
 echo "R. ROLBACK FILES PTERODACTYL ( TIDAK MEMENGARUHI DATA - DATA SERVER )"
-read -p "PILIH OPSI (1-16): " OPTION
+read -p "PILIH OPSI (1A-2A): " OPTION
 case "$OPTION" in
 
 R)
